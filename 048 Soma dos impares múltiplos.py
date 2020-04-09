@@ -1,5 +1,4 @@
 from os import system, name
-system('cls' if name == 'nl' else 'clear')
 
 s = 0
 cont = 0
