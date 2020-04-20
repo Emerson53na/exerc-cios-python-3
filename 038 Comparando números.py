@@ -1,7 +1,7 @@
-import os
+from os import system
 
 while True:
-      os.system('cl' if os.name == 'nl' else 'clear')
+      system('clear')
  
       num1 = int(input(' Primeiro número: '))
       num2 = int(input(' Segundo número: '))
