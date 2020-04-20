@@ -2,7 +2,6 @@ from os import system
 
 while True:
       system('clear')
- 
       num1 = int(input(' Primeiro número: '))
       num2 = int(input(' Segundo número: '))
  
